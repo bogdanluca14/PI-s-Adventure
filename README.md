@@ -75,7 +75,7 @@ Un profesor poate da elevilor teme de vacanță constând în niveluri create cu
 
 ## Realizatori
 
-- **Luca Bogdan‑Alexandru**  
+**Luca Bogdan‑Alexandru**  
 - **Școala:** Colegiul Național "Ion C. Brătianu"
 - **Clasa:** a X‑a  
 - **Județ:** Argeș  
