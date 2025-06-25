@@ -8,7 +8,7 @@
 
 ## Descriere
 
-**“PI's Adventure”** este o aplicație educațională captivantă, menită să ajute la **învățarea și exersarea funcțiilor matematice** într-un mod plăcut și interactiv, bazată pe **peste 3000 de linii de cod**.
+**"PI's Adventure"** este o aplicație educațională captivantă, menită să ajute la **învățarea și exersarea funcțiilor matematice** într-un mod plăcut și interactiv, bazată pe **peste 3000 de linii de cod**. În implementarea ei au fost folosite sisteme avansate și eficiente de Encoding, Function Plottering, Expression Building, precum și alte tehnici disponibile în **Codul Sursă** de pe GitHub.
 
 Concret, aceasta îi permite elevului:
 - să înțeleagă ce sunt funcțiile și cum se modifică graficele în funcție de variabile;
@@ -72,7 +72,7 @@ Un profesor poate da elevilor teme de vacanță constând în niveluri create cu
 ## Realizatori
 
 - **Luca Bogdan‑Alexandru**  
-- **Școala:** Colegiul Național “Ion C. Brătianu”  
+- **Școala:** Colegiul Național "Ion C. Brătianu"
 - **Clasa:** a X‑a  
 - **Județ:** Argeș  
 - **Oraș:** Pitești
