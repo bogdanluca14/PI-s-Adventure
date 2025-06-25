@@ -84,9 +84,9 @@ Un profesor poate da elevilor teme de vacanță constând în niveluri create cu
 ## Screenshoturi
 
 ![tutorial](Screenshots/tutorial.png)
-![finalNivel](Screenshots/tutorial.png)
-![documentatie](Screenshots/tutorial.png)
-![meniu](Screenshots/tutorial.png)
-![nivel](Screenshots/tutorial.png)
-![optiuni](Screenshots/tutorial.png)
-![creareNivel](Screenshots/tutorial.png)
+![finalNivel](Screenshots/finalNivel.png)
+![documentatie](Screenshots/documentatie.png)
+![meniu](Screenshots/meniu.png)
+![nivel](Screenshots/nivel.png)
+![optiuni](Screenshots/optiuni.png)
+![creareNivel](Screenshots/creareNivel.png)
