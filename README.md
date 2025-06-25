@@ -48,6 +48,7 @@ Aplicația "PI’s Adventure" a fost construită folosind:
 - **C#** – limbaj de programare  
 - **Photoshop** – crearea graficii
 - **LaTeX** – formatare matematică  
+- **DOTween** – animații UI  
 
 
 ## Aplicație educațională STEM
