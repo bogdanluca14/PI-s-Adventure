@@ -10,7 +10,7 @@
 
 ## Descriere
 
-**"PI's Adventure"** este o aplicație educațională captivantă, menită să ajute la **învățarea și exersarea funcțiilor matematice** într-un mod plăcut și interactiv, bazată pe **peste 4700 de linii de cod**. În implementarea ei au fost folosite sisteme avansate și eficiente de **Encoding, Function Plottering, Expression Building, JSON Smart Saving System**, precum și alte tehnici disponibile în **Codul Sursă** documentat în detaliu pe GitHub.
+"PI's Adventure" este o aplicație educațională captivantă, menită să ajute la **învățarea și exersarea funcțiilor matematice** într-un mod plăcut și interactiv, având la bază **peste 4700 de linii de cod**. În implementarea ei au fost folosite sisteme avansate și eficiente de **Encoding, Function Plottering, Expression Building, JSON Smart Saving System**, precum și alte tehnici disponibile în **Codul Sursă** documentat în detaliu pe GitHub.
 
 Concret, aceasta îi permite utilizatorului:
 - **să înțeleagă** ce sunt funcțiile și cum se modifică graficele în funcție de variabile;
