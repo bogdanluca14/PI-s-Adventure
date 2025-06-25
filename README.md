@@ -5,7 +5,7 @@
 **Categorie:** Educațional  
 **Județ:** Argeș  
 **GitHub:** https://github.com/bogdanluca14/PI-s-Adventure  
-(Codul Sursă, Aplicația propriu-zisă, Documentație avansată)
+(Codul Sursă, Documentație avansată și Aplicația propriu-zisă)
 
 
 ## Descriere
