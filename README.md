@@ -14,7 +14,9 @@
 
 Concret, aceasta îi permite elevului:
 - să înțeleagă ce sunt funcțiile și cum se modifică graficele în funcție de variabile;
-- să creeze funcții proprii pentru a propulsa protagonistul "PI" prin niveluri pline de obstacole.
+- să creeze funcții proprii pentru a propulsa protagonistul "PI" prin niveluri pline de obstacole;
+- să creeze și să testeze niveluri personalizate pe care le poate împărtăși altora;
+- să își dezvolte creativitatea și gândirea.
 
 
 ## Funcționalități
