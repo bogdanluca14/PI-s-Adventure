@@ -80,3 +80,7 @@ Un profesor poate da elevilor teme de vacanță constând în niveluri create cu
 - **Clasa:** a X‑a  
 - **Județ:** Argeș  
 - **Oraș:** Pitești
+
+## Screenshoturi
+
+![Tutorial](Screenshots/tutorial.png)
